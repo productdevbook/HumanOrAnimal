@@ -52,3 +52,13 @@ You only have your own choice in your hands. No system, no leader, no propaganda
 **Only you can answer this question.**
 
 **And this answer... lies not only in your words, but in your actions.**
+
+---
+
+## Contributing
+
+I don't know much about open source contribution guidelines, headers, or proper protocols. I simply wrote what my heart told me in these dark times. 
+
+If you feel this message resonates with you, if you want to improve it, translate it, or spread it further - contributions are welcome. The only requirement is that it comes from your conscience, not from hatred.
+
+**This is not just code. This is a call to humanity.**
